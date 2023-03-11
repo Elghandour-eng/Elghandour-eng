@@ -32,6 +32,11 @@
 
 </div>
 
+--- 
+[![My Streak](https://streak-stats.demolab.com/?user=Elghandour-eng&theme=dark)](https://git.io/streak-stats)
+
+---
+
 ---
 [![Abdelwahab Elghandour's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Elghandour-eng&custom_title=Elghandour-Eng&hide_border=true&theme=xcode)](https://github.com/Elghandour-eng/github-readme-activity-graph)
 -->
