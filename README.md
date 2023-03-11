@@ -31,4 +31,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
 
 </div>
+
+---
+[![Abdelwahab Elghandour's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Elghandour-eng&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/Elghandour-eng/github-readme-activity-graph)
 -->
