@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning AI & Machine Learning
 
 
-![Elghandour-eng's github stats](https://github-readme-stats.vercel.app/api?username=Elghandour-eng&show_icons=true&theme=dracula)
+![Elghandour-eng's github stats](https://github-readme-stats.vercel.app/api?username=Elghandour-eng&show_icons=true&theme=dracula) 
+  
+
 
 
 ---
@@ -32,10 +34,7 @@
 
 </div>
 
---- 
-[![My Streak](https://streak-stats.demolab.com/?user=Elghandour-eng&theme=dark)](https://git.io/streak-stats)
 
----
 
 ---
 [![Abdelwahab Elghandour's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Elghandour-eng&custom_title=Elghandour-Eng&hide_border=true&theme=xcode)](https://github.com/Elghandour-eng/github-readme-activity-graph)
