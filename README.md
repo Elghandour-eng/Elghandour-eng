@@ -33,5 +33,5 @@
 </div>
 
 ---
-[![Abdelwahab Elghandour's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Elghandour-eng&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/Elghandour-eng/github-readme-activity-graph)
+[![Abdelwahab Elghandour's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Elghandour-eng&custom_title=This%20is%20a%20title&hide_border=true&theme=xcode)](https://github.com/Elghandour-eng/github-readme-activity-graph)
 -->
