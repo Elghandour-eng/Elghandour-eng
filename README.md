@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning AI & Machine Learning
 
 
-![Elghandour-eng's github stats](https://github-readme-stats.vercel.app/api?username=Elghandour-eng)
+![Elghandour-eng's github stats](https://github-readme-stats.vercel.app/api?username=Elghandour-eng&show_icons=true&theme=dracula)
 
 
 ---
