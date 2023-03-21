@@ -6,7 +6,8 @@
 
 
 - 🔭 I’m currently working on EduSoft as Mobile developer [Kotlin - Flutter]
-- 🌱 I’m currently learning AI & Machine Learning
+- 🌱 I’m currently learning AI & Machine Learning in [information technology institute](https://www.iti.gov.eg/iti/programs/details/PTP-AI)
+
 
 
 ![Elghandour-eng's github stats](https://github-readme-stats.vercel.app/api?username=Elghandour-eng&show_icons=true&theme=dracula) 
