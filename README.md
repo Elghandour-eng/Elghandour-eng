@@ -10,14 +10,16 @@
 
 
 
-[Elghandour-eng's github stats](https://github-readme-stats.vercel.app/api?username=Elghandour-eng&show_icons=true&theme=dracula) 
+![Elghandour-eng's github stats](https://github-readme-stats.vercel.app/api?username=Elghandour-eng&show_icons=true&theme=dracula) 
+---
+### `🏆 GitHub Trophies`
   
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elghandour-Eng&theme=tokyonight)
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### `🛠️: Languages and Tools`
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
