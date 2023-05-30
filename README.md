@@ -41,5 +41,4 @@
 
 
 ---
-[![Abdelwahab Elghandour's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Elghandour-eng&custom_title=Elghandour-Eng&hide_border=true&theme=xcode)](https://github.com/Elghandour-eng/github-readme-activity-graph)
--->
+[![Abdelwahab Elghandour's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elghandour-Eng&theme=react-dark)](https://github.com/Elghandour-Eng/github-readme-activity-graph)
