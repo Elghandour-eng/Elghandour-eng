@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Elghandour-eng/Elghandour-eng** is a  *Software Engineer*
+**Elghandour-eng** is a  *Software Engineer*
 
 
 
