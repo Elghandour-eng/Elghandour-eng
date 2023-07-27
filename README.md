@@ -2,11 +2,15 @@
 
 **Elghandour-eng** is a  *Software Engineer*
 
+      with a good foundation in programming languages such as Python and Java, as well as in AI
+          and machine learning concepts. Skilled in working with data structures, algorithms, and statistical models. Have
+          good experience in developing and implementing machine learning algorithms and frameworks such as
+          TensorFlow and Keras. Passionate about staying up-to-date with the latest technologies and continuously
+          learning and growing as a software engineer. 
 
-
-
+- 🌱 I have completed my studies in AI and Machine Learning at [information technology institute](https://www.iti.gov.eg/iti/programs/details/PTP-AI)
 - 🔭 I’m currently working on EduSoft as Mobile developer [Kotlin - Flutter]
-- 🌱 I’m currently learning AI & Machine Learning in [information technology institute](https://www.iti.gov.eg/iti/programs/details/PTP-AI)
+
 
 
 
