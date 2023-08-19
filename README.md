@@ -9,7 +9,7 @@
           learning and growing as a software engineer. 
 
 - 🌱 I have completed my studies in AI and Machine Learning at [information technology institute](https://www.iti.gov.eg/iti/programs/details/PTP-AI)
-- 🔭 I’m currently working on EduSoft as Mobile developer [Kotlin - Flutter]
+- 🔭 I’m currently working At VisitKuwait as Mobile developer [Kotlin - Flutter]
 
 
 
