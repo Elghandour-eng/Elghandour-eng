@@ -1,6 +1,7 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Elghandour-eng) 
 
-**Elghandour-eng** is a  *Software Engineer*
+**Elghandour-eng** is a  *Software Engineer* 
 
       with a good foundation in programming languages such as Python and Java, as well as in AI
           and machine learning concepts. Skilled in working with data structures, algorithms, and statistical models. Have
