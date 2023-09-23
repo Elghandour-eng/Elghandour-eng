@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Elghandour-eng) 
 
-**Elghandour-eng** is a  *Software Engineer* 
+**Elghandour-eng** is a  *AI & Software Engineer* 
 
       with a good foundation in programming languages such as Python and Java, as well as in AI
           and machine learning concepts. Skilled in working with data structures, algorithms, and statistical models. Have
@@ -10,7 +10,7 @@
           learning and growing as a software engineer. 
 
 - 🌱 I have completed my studies in AI and Machine Learning at [information technology institute](https://www.iti.gov.eg/iti/programs/details/PTP-AI)
-
+- 🌱 I currently working as *NLP & LLMOPS Engineer* at [CEQUENS](https://www.cequens.com/)
 
 
 
