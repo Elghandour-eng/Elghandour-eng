@@ -9,7 +9,7 @@
           TensorFlow and Keras. Passionate about staying up-to-date with the latest technologies and continuously
           learning and growing as a software engineer. 
 
-- 🌱 I have completed my studies in AI and Machine Learning at [information technology institute](https://www.iti.gov.eg/iti/programs/details/PTP-AI)
+- 🌱 I have completed my studies in AI and Machine Learning at [information technology institute](https://iti.gov.eg/iti/programs/details/PTP-AI)
 - 🌱 I currently working as *NLP & LLMOPS Engineer* at [CEQUENS](https://www.cequens.com/)
 
 
